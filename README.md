@@ -1,2 +1,2 @@
 # Snake game 
-<img src="features/snakegame.gif" width="1000" height="800">
+<img src="features/snakegame.gif" width="850" height="800">
